@@ -106,7 +106,7 @@ src/
 3. **Click** `File → Clone repository`
 4. **Select** your fork from the list, or go to the **URL tab** and paste your fork URL
 5. **Choose** a local path and click **Clone**
-6. **Open** the project folder in your preferred code editor (e.g., **Visual Studio Code**)
+6. **Open** the project folder in  **Visual Studio Code**
 
 ---
 
