@@ -166,4 +166,7 @@ Once completed, make sure your code:
 - Handles all edge cases (loading, errors, empty states) 
 - Is ready for review 
 
+## Remember 
+- You can check the available endpoints at: `http://testback.tgdcompany.com/swagger-ui/index.html#/equipment-controller`
+
 Good luck!
