@@ -50,7 +50,7 @@ You need to implement a complete assets management feature that:
 
 ### API Endpoints
 
-The base URL is already configured in the axios instance: `https://backofficebacktesting.tgdcompany.com/`
+The base URL is already configured in the axios instance: `https://testback.tgdcompany.com/`
 
 You will need to determine the correct endpoints for:
 
